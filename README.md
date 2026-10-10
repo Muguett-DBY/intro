@@ -1,8 +1,17 @@
-# Git Starter Workshop
+<!-- Project artwork created for this repository. -->
+<p align="center">
+  <img src="./docs/assets/readme-banner.svg" width="100%" alt="Git Starter Workshop — Start small. Commit often. Follow what changes." />
+</p>
+
+<h1 align="center">Git Starter Workshop</h1>
+
+<p align="center">
+  <img src="./docs/assets/readme-badges.svg" alt="Learning archive · Git · GitHub · Beginner workshop" />
+</p>
 
 **A hands-on introduction to repositories, commits, branches, and pull requests.**
 
-`Git` · `GitHub` · `Beginner workshop`
+<p align="center"><a href="#start-here">Start here</a> &nbsp; · &nbsp; <a href="#learn-next">Learn next</a></p>
 
 ## Start here
 
