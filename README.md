@@ -39,3 +39,5 @@ Use an authentication method supported by GitHub, such as SSH or GitHub CLI. You
 The [original workshop](docs/WORKSHOP.md) includes terminal exercises and the longer walkthrough. It is retained as historical teaching material; some UI and authentication instructions are dated.
 
 Based on the [USRC Git workshop](https://github.com/usydroboticsclub/intro). This repository is a learning copy, not a new Git tool.
+
+See [source and rights](docs/SOURCE_AND_RIGHTS.md) before reusing imported exercises or media.
